@@ -476,3 +476,4 @@ TOC created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 * [Wireless-tools](https://github.com/bakerface/wireless-tools/) - Wireless tools for Node.js 
 * [wit](https://github.com/substack/wit/) - Command-line wifi manager for linux
 * [wobs](https://github.com/observ3r/wobs/) - Detects near-by devices such as cell phones, tablets, and laptops. Does this through 802.11, Bluetooth, cell phone protocols, etc.. 
+ 
